@@ -1,0 +1,29 @@
+.WreathContainer {
+	position: relative;
+	max-width: 1150px;
+	padding-right: 45px;
+	padding-left: 206px;
+}
+
+.WreathProductRow {
+  margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: 20px;
+}
+
+.ProductColumn {
+	width: 31.33333333%;
+	position: relative;
+	float: left;
+	min-height: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.Quantity {
+	float: right;
+	font-weight: bold;
+	padding: 20px;
+  color: #5C9210;
+}
+

@@ -1,0 +1,46 @@
+.ProductColumn {
+	width: 31.33333333%;
+	position: relative;
+	float: left;
+	min-height: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.ProductBlock {
+	position: relative;
+	overflow: hidden;
+	box-shadow: 1px 1px 10px 0 rgba(0,0,0,.07);
+	-webkit-transition: box-shadow .2s ease;
+	transition: box-shadow .2s ease;
+}
+
+.Details {
+    font-size: 16px;
+      display: block;
+      color: #000;
+      font-size: 18px;
+      font-weight: 400;
+}
+
+.ProductContentBlock {
+  padding: 16px;
+  border: 1px solid;
+  height: 50%;
+	border-color: rgb(187, 185, 185);
+	background-color: #fff;
+  text-align: left;
+  box-shadow: 2px 2px 2px rgb(187, 185, 185);
+}
+
+.ProductImageBlock {
+    position: absolute;
+    left: 10px;
+    top: -2px;
+    right: 0;
+    z-index: 10;
+    width: 95%;
+    height: 199px;
+    padding-top: 75px;
+    background-color: rgba(0,0,0,.4);
+}

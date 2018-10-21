@@ -1,0 +1,10 @@
+.CheckoutBlock {
+	position: relative;
+	z-index: 10;
+	display: block;
+	width: 75%;
+	margin-top: -50px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 50px 60px;
+}

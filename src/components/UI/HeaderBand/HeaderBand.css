@@ -1,0 +1,15 @@
+.HeaderBand {
+	position: relative;
+	max-width: 1150px;
+	padding-right: 45px;
+	padding-left: 45px;
+}
+
+.Logo {
+	float: left;
+	text-decoration: none;
+	color: #333;
+	width: 300px;
+  margin-left: -31px;
+  margin-top: -9px;
+}
